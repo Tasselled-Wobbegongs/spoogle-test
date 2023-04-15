@@ -21,8 +21,8 @@ class SearchBar extends Component {
       searchParameters: [
         {
           spotifyName: '_danceability',
-          displayName: 'Dancebility',
-          description: 'A little side-step or in the mood to sals?',
+          displayName: 'Danceability',
+          description: 'A little side-step or in the mood to salsa?',
           min: 0,
           max: 100,
         },
